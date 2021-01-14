@@ -9,9 +9,3 @@ const euclideanAlgorithm = (N, M) => {
     return array.filter((elem, index, arr) => arr.indexOf(elem) === index).length;
 };
 console.log(euclideanAlgorithm(10, 4));
-console.log(euclideanAlgorithm(5, 2));
-console.log(euclideanAlgorithm(7, 3));
-console.log(euclideanAlgorithm(20, 5));
-console.log(euclideanAlgorithm(10, 3));
-console.log(euclideanAlgorithm(4, 2));
-//# sourceMappingURL=euclidean.js.map

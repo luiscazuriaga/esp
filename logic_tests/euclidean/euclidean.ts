@@ -10,9 +10,5 @@ const euclideanAlgorithm = (N, M) => {
 }
 
 console.log(euclideanAlgorithm(10, 4))
-console.log(euclideanAlgorithm(5, 2))
-console.log(euclideanAlgorithm(7, 3))
-console.log(euclideanAlgorithm(20, 5))
-console.log(euclideanAlgorithm(10, 3))
-console.log(euclideanAlgorithm(4, 2))
+
 
